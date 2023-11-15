@@ -5,11 +5,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in 6 countries and 3 continents
 
-### Connect with me!
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me! </h3>
+<div align="center">
 [<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img align="left" alt="Jaspreet Singh Marwah | GMail" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />][gmail]
+</div>
 
-<br>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
 
