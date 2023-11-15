@@ -11,7 +11,7 @@
 
 [website]: https://zantorym.github.io/
 [linkedin]: https://www.linkedin.com/in/jaspreet-marwah/
-[gmail]: jaspmarwah@gmail.com
+[gmail]: mailto:jaspmarwah@gmail.com
 <!--
 **Zantorym/Zantorym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
