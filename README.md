@@ -1,5 +1,7 @@
-### Hi there, I'm Jaspreet 👋
-- 🔭 I’m currently searching for roles related to web development and cloud DevOps
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- 🔭 I’m currently searching for job opportunities related to web development and cloud DevOps
+- 📫 How to reach me: jaspmarwah@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived in 6 countries and 3 continents
 
@@ -7,7 +9,16 @@
 [<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img align="left" alt="Jaspreet Singh Marwah | GMail" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />][gmail]
 
+<br>
 
+<div align="center">
+
+<a href="https://github.com/Zantorym/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zantorym&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zantorym&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Zantorym"/>
+
+</a>
+</div>
 
 [website]: https://zantorym.github.io/
 [linkedin]: https://www.linkedin.com/in/jaspreet-marwah/
