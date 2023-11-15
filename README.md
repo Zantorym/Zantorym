@@ -4,13 +4,14 @@
 - ⚡ Fun fact: I've lived in 6 countries and 3 continents
 
 ### Connect with me!
-[<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />](linkedin)
-[<img align="left" alt="Jaspreet Singh Marwah | GMail" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />](website)
+[<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />][linkedin]
+[<img align="left" alt="Jaspreet Singh Marwah | GMail" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />][gmail]
 
 
 
 [website]: https://zantorym.github.io/
 [linkedin]: https://www.linkedin.com/in/jaspreet-marwah/
+[gmail]: jaspmarwah@gmail.com
 <!--
 **Zantorym/Zantorym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
