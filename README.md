@@ -7,9 +7,9 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me! </h3>
 <div align="center">
-  <a style="margin-left: 10px;"  target="_blank" href=[linkedin]>
+  <a style="margin-left: 10px; width: 26px;"  target="_blank" href=[linkedin]>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <a style="margin-left: 10px;"  target="_blank" href=[gmail]>
+  <a style="margin-left: 10px; width: 26px;"  target="_blank" href=[gmail]>
 			<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png"></a>
 </div>
 
