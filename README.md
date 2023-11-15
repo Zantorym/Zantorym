@@ -4,8 +4,8 @@
 - ⚡ Fun fact: I've lived in 6 countries and 3 continents
 
 ### Connect with me!
-[<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />]
-[<img align="left" alt="Jaspreet Singh Marwah | GMail" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />]
+[<img align="left" alt="Jaspreet Singh Marwah | LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />]
+[<img align="left" alt="Jaspreet Singh Marwah | GMail" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />]
 
 
 <!--
