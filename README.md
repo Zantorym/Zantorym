@@ -1,4 +1,4 @@
-
+<!--
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - 🔭 I’m currently searching for job opportunities related to web development and cloud DevOp, visit my [portfolio page](https://zantorym.github.io/).
 - 📫 How to reach me: jaspmarwah@gmail.com
@@ -14,7 +14,7 @@
 </div>
 
 <br><br>
-<!--
+
 ### Skills
 
 <div align="left">
